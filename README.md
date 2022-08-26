@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Ricardo-Alday/Ricardo-Alday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Richi](https://user-images.githubusercontent.com/111933729/187002606-2cd5be8a-092a-4ad0-a456-038c14e90a77.png)
 
 Here are some facts about me:
 
